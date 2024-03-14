@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://misode.github.io/'"/>
+    <title>Heh you typoed</title>
+  </head>
+  <body>
+    <h1><a href="https://misode.github.io/">Heh, tpying is hard</a></h1>
+    <script>window.location="https://misode.github.io/"</script>
+  </body>
+</html>
